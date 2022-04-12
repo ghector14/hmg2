@@ -2,7 +2,7 @@
   "name": "hmg2",
   "private": true,
   "version": "1.0.0",
-  "description": "",
+  "description": "Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.",
   "main": "package.json",
   "author": "Hector M. Gomez <gomezhector62@gmail.com>",
   "license": "UNLICENSED",
