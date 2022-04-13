@@ -4,10 +4,10 @@
 :root {
   --font-base: "DM Sans", sans-serif;
 
-  --primary-color: #edf2f8;
+  --primary-color: rgb(34, 31, 31);
   --secondary-color: #b1e600;
-  --black-color: #030303;
-  --lightGray-color: #e4e4e4;
+  --black-color: #ffffff;
+  --lightGray-color: #413d3d;
   --gray-color: #6b7688;
   --brown-color: #768057;
   --white-color: #ffffff;
